@@ -1,2 +1,2 @@
 # Console-based-Gun-Shooter-Game
-Two players are playing a simple game with the help of OOPs concepts in java
+A simple game to understand how oops works in real software development. A wonderful game uses oops concepts like encapsulation, inheritance, and method overriding respectively.
